@@ -4,7 +4,6 @@ import Header from "./Header.js"
 import Table from "./Table";
 
 function App() {
-    // data state to store the TV Maze API data. Its initial value is an empty array
     const [data,
         setData] = useState([]);
 
